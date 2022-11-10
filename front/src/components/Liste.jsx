@@ -24,7 +24,7 @@ const Liste = () => {
         console.log(err);
       });
 
-  }, []);
+  }, [rechercheClients]);
 
 
   const chercher = (e) => {
